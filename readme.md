@@ -53,7 +53,7 @@ Negative examples should remain anonymous unless the business approves being
 named. Positive examples should be dated because websites and listings change.
 
 The written material is available under
-[CC BY 4.0](LICENSE.md). Attribute Handers Digital and link to this repository
+[CC BY 4.0](license.md). Attribute Handers Digital and link to this repository
 when you reuse or adapt it.
 
 Last reviewed: August 28, 2026.
