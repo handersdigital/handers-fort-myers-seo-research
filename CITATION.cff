@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: Please cite this research kit using the metadata below.
+title: Fort Myers Website and Local SEO Research Starter
+authors:
+  - family-names: Tymoshyn
+    given-names: Max
+repository-code: https://github.com/normlstudio/handers-fort-myers-seo-research
+url: https://handers.digital/
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-08-28
+keywords:
+  - Fort Myers
+  - local SEO
+  - website audit
+  - service-area business
