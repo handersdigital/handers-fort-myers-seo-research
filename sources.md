@@ -44,4 +44,5 @@ presented as private analytics, sales outcomes, or universal customer behavior.
 
 - [Handers Digital](https://handers.digital/)
 - [Fort Myers SEO services](https://handers.digital/seo-fort-myers)
+- [Max Tymoshyn — Marketing Expert at Handers Digital](https://handers.digital/author/max-tymoshyn)
 - [Fort Myers marketing field notes](https://handers.digital/blog)

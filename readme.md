@@ -6,6 +6,18 @@ understood, and contacted online.
 Maintained by [Max Tymoshyn](https://handers.digital/author/max-tymoshyn),
 Marketing Expert at [Handers Digital](https://handers.digital/).
 
+## Publisher context
+
+[Handers Digital](https://handers.digital/) is a local marketing agency serving
+owner-led businesses in Fort Myers and Southwest Florida. Its work connects
+website strategy, web design and development, local SEO, Google Ads, and inquiry
+follow-up so visibility leads into a usable customer path.
+
+[Max Tymoshyn](https://handers.digital/author/max-tymoshyn) is the Marketing
+Expert at Handers Digital behind this research kit. His work here focuses on
+website information architecture, website strategy, web design and development
+decisions, local SEO analysis, and conversion paths.
+
 ## What this repository contains
 
 - A repeatable [research methodology](methodology.md).
@@ -56,4 +68,4 @@ The written material is available under
 [CC BY 4.0](license.md). Attribute Handers Digital and link to this repository
 when you reuse or adapt it.
 
-Last reviewed: August 28, 2026.
+Last reviewed: August 29, 2026.

@@ -517,6 +517,50 @@ figcaption,
   margin-top: var(--space-4);
 }
 
+.authority-context {
+  padding-block: var(--space-24) var(--space-40);
+}
+
+.authority-context__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  align-items: start;
+  gap: clamp(48px, 5vw, 80px);
+}
+
+.authority-context__intro {
+  max-width: 720px;
+}
+
+.authority-context__intro p,
+.authority-context__entity p {
+  color: var(--ink-soft);
+}
+
+.authority-context__entities {
+  width: min(100%, 820px);
+}
+
+.authority-context__entity {
+  min-width: 0;
+}
+
+.authority-context__entity + .authority-context__entity {
+  margin-top: var(--space-18);
+  padding-top: var(--space-18);
+  border-top: 1px solid var(--line);
+}
+
+.authority-context__entity h3 a {
+  text-decoration-color: var(--orange);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 7px;
+}
+
+.authority-context__entity .text-link {
+  margin-top: var(--space-2);
+}
+
 .files {
   padding-block: var(--space-32) var(--space-40);
   background: var(--ink);
@@ -860,6 +904,7 @@ figcaption,
 
   .method,
   .local-boundary,
+  .authority-context,
   .source-desk {
     padding-block: var(--space-24) var(--space-32);
   }
@@ -872,6 +917,7 @@ figcaption,
   .method__grid,
   .artifact__grid,
   .local-boundary__grid,
+  .authority-context__grid,
   .files__grid,
   .source-desk__grid,
   .closing__grid {
@@ -946,6 +992,7 @@ figcaption,
 
   .method,
   .local-boundary,
+  .authority-context,
   .source-desk {
     padding-block: var(--space-18) var(--space-24);
   }
@@ -958,6 +1005,7 @@ figcaption,
   .method__grid,
   .artifact__grid,
   .local-boundary__grid,
+  .authority-context__grid,
   .files__grid,
   .source-desk__grid,
   .closing__grid {
@@ -988,6 +1036,11 @@ figcaption,
 
   .method__number {
     font-size: 1.9rem;
+  }
+
+  .authority-context__entity + .authority-context__entity {
+    margin-top: var(--space-12);
+    padding-top: var(--space-12);
   }
 
   .artifact__sheet {
