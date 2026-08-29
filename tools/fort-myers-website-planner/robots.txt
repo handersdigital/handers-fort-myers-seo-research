@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://handers-fort-myers-website-planner.vercel.app/sitemap.xml

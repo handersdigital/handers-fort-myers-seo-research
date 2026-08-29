@@ -25,6 +25,11 @@ decisions, local SEO analysis, and conversion paths.
   [website and local SEO checklist](checklists/fort-myers-local-seo-and-website-audit.md).
 - A [single-website review record](templates/website-review-record.md).
 - A curated [source desk](sources.md) covering local data and current Google guidance.
+- A browser-based
+  [Fort Myers service-area website planner](https://handers-fort-myers-website-planner.vercel.app/)
+  that turns services, geography, and the primary customer action into a
+  first-pass information architecture. Its reviewed source lives in
+  [`tools/fort-myers-website-planner/`](tools/fort-myers-website-planner/).
 
 The kit is designed for business owners, marketers, developers, and researchers.
 It can support an internal review, a local-market study, or a documented website
